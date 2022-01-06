@@ -1,0 +1,21 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0px;
+	font-family: Poppins, Arial;
+	color: #2b383f;
+}
+
+h1,
+h2,
+h3 {
+	margin: 0px;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
